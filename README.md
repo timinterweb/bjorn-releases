@@ -23,7 +23,7 @@ Not sure which Mac you have? Click the Apple menu, then About This Mac. If the c
 1. Open the `.dmg` file you downloaded.
 2. Drag Björn into your Applications folder.
 3. Open it from Applications, not from the little disk image window. Apps run from the disk image cannot update themselves later.
-4. Sign in with the same account you use on heybjorn.com. If you do not have one yet, you can make one for free at https://app.heybjorn.com
+4. Sign in with your Björn account, or make one right there. New accounts start in onboarding when the app opens, and it is free.
 5. Say yes to the microphone prompt the first time you start a conversation. The mic is only on while you are speaking.
 
 The app is signed and notarised by Apple, so it opens without any security warnings.
